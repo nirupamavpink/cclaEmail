@@ -1,1 +1,3 @@
 # cclaEmail
+
+Notification for whitelist
